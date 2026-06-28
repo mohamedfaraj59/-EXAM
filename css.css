@@ -22,8 +22,6 @@ a{
   text-decoration: none !important;
 }
 
-/* Header section */
-/*? Navbar */
 .custom-container {
   width: 100%;
  
@@ -71,7 +69,6 @@ a{
   border-bottom:2px solid #ff6600;
 }
 
-/* ده اللي هيشتغل مع ScrollSpy */
 
 .navbar .nav-link.active{
 
@@ -742,7 +739,6 @@ rpm{
   overflow: hidden;
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.05);
 }
-/*?(Header) */
 .quote-icon {
   width: 65px;
   height: 65px;
@@ -765,7 +761,6 @@ rpm{
   font-weight: 600;
 }
 
-/*? (Body) */
 .testimonial-body .lead-text {
   font-size: 20px;
   line-height: 33px;
@@ -789,7 +784,6 @@ rpm{
     rgba(0, 0, 0, 0) 100%
   );
 }
-/*? (Footer) */
 .client-avatar img {
   width: 80px;
   height: 80px;
@@ -854,7 +848,6 @@ rpm{
   opacity: 1;
 }
 
-  /* start FAQ section  */
   .FAQ{
     background:#F9FAFB;
     padding:80px 0;
@@ -870,14 +863,12 @@ rpm{
   margin: auto;
 }
 
-/* عرض أصغر */
 .FAQ-main{
     width:100%;
     max-width:900px;
     margin:auto;
 }
 
-/* Accordion Item */
 
 .FAQ-main .accordion-item{
     margin-bottom:18px;
@@ -889,14 +880,12 @@ rpm{
     transition:.35s;
 }
 
-/* Hover */
 
 .FAQ-main .accordion-item:hover{
     border-color:#ff6600 !important;
 
 }
 
-/* Button */
 
 .FAQ-main .accordion-button{
 
@@ -908,7 +897,6 @@ rpm{
     box-shadow:none !important;
 }
 
-/* لما يفتح */
 
 .FAQ-main .accordion-button:hover{
 
@@ -916,13 +904,11 @@ rpm{
    
 }
 
-/* إزالة الـ outline */
 
 
 
 
 
-/* Body */
 
 .FAQ-main .accordion-body{
 text-align: left;
@@ -968,7 +954,6 @@ text-align: left;
   font-weight:700;
 }
 
-/* Responsive */
 
 @media(max-width:768px){
 
@@ -1034,20 +1019,17 @@ text-align: left;
   background: #FFF5EE;
   color: #ff6600;
 }
-  /* end FAQ section */
 
 
 
 
 
-  /* الحاوية الكبيرة التي تجمع النصين */
 .contact-wrapper {
   border-radius: 24px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
   background-color: #ffffff; /* لون هادي مريح للعين */
 }
 
-/* ستايل فورم الإدخالInputs */
 .contact-form-side .form-control,
 .contact-form-side .form-select {
   background-color: #f3f4f6 !important;
@@ -1058,7 +1040,6 @@ text-align: left;
   transition: all 0.3s ease;
 }
 
-/* تأثير الـ Focus على الـ Inputs */
 .contact-form-side .form-control:focus,
 .contact-form-side .form-select:focus {
   background-color: #ffffff !important;
@@ -1094,7 +1075,6 @@ background-clip: text;
   
 }
 
-/* ستايل كروت تحديد الميزانية (Budget Buttons) */
 .budget-btn {
   border: 1px solid #e5e7eb !important;
   background-color: #ffffff;
@@ -1110,7 +1090,6 @@ background-clip: text;
   color: #bd2517 !important;
 }
 
-/* زرار الإرسال البرتقالي/الأحمر الكبير */
 .submit-contact-btn {
   background-color: #ea580c !important; /* اللون البرتقالي الناري الصريح الملعق في الديزاين */
   border: none;
@@ -1121,7 +1100,6 @@ background-clip: text;
   background-color: #d946ef !important; /* غيره للدرجة الأغمق عند التمرير */
 }
 
-/* 🔴 ستايل الطرف اليمين (بطاقة المعلومات الفخمة) */
 .contact-info-side{
 
   background:#BC460A;
@@ -1363,7 +1341,6 @@ font-size: 16px !important;
   margin:0 5px;
 }
 
-/* Responsive */
 
 @media(max-width:768px){
 
